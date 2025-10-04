@@ -3,3 +3,4 @@ jupyter
 pandas
 plotly
 matplotlib
+kaleido
